@@ -3,7 +3,7 @@ AIVersion=9.7
 AIEdition=1
 GUID={BBB01CDD-042E-4B18-B194-6819F261B12E}
 AppName=Prrduct Management Liblery
-AppVersion=1.0.0.0
+AppVersion=1.0.0.2
 AppDescription=Prrduct Management Liblery | Save Your Data inot Microsoft Sql dtatabese
 CompanyName=Nzzz-3z
 WebSite=
@@ -147,8 +147,8 @@ CustomActionCommand=<WebSite>
 CustomActionChecked=0
 CustomActionAdmin=0
 TotalFiles=1
-SourceDirFiles=60
-SourceDirSize=7878165
+SourceDirFiles=71
+SourceDirSize=18271919
 
 [GUI]
 FontName=Verdana
